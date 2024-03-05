@@ -26,4 +26,6 @@ T&C for Premium subscription
   
 7) We store incoming data from our users in a dump for security purposes  and check spams but we do not dump any outgoing data.
 
-- `Legal Notice:`  Our bot’s process are automated and hence the users are responsible for all the things that comes in and goes out. The user is responsible for their activities and responsible for action taken against them by telegram or any legal authorities. We are responsible for only users privacy.
+8) We will not transfer your bot subscription from one account to another.
+
+9) `Legal Notice:`  Our bot’s process are automated and hence the users are responsible for all the things that comes in and goes out. The user is responsible for their activities and responsible for action taken against them by telegram or any legal authorities. We are responsible for only users privacy.
