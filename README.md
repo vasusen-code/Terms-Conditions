@@ -28,4 +28,4 @@ T&C for Premium subscription
 
 8) We will not transfer your bot subscription from one account to another.
 
-9) `Legal Notice:`  Our bot’s process are automated and hence the users are responsible for all the things that comes in and goes out. The user is responsible for their activities and responsible for action taken against them by telegram or any legal authorities. We are responsible for only users privacy.
+9) `Legal Notice:`  Our bots' processes are automated and hence the users are responsible for all the things that comes in and goes out. The user is responsible for their activities and responsible for action taken against them by telegram or any legal authorities. We are responsible for only users privacy.
