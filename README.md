@@ -24,7 +24,7 @@ T&C for Premium subscription
 
 6) In case if you are paying for multiple months then it would at your risk to invest money, we take responsibility for one complete month only.
   
-7) We store incoming data from our users in a dump for security purposes  and check spams but we do not dump any outgoing data.
+7) We store incoming data from our users in a dump to check spams but we do not dump any outgoing data.
 
 8) We will not transfer your bot subscription from one account to another.
 
